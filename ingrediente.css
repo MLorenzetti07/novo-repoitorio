@@ -20,10 +20,8 @@ img{
     background-color:rgb(193, 71, 223);
     display: flex;
 }
-.logocabecalho{
-    width: 100px;
-}
-.lista_cabecalho{
+{
+.lista_cabecalho
     display: flex;
     margin-left: 500px;
 }

@@ -1,5 +1,23 @@
 
-header {
-    background: #BBBBBB;
-    padding: 20px 0;
+header{
+    background: #0c1f1d00;
+}  
+h1{
+    text-align: center ;
+    font-size: 40px;
+    color: rgb(55, 43, 226);
+}
+p{
+    text-align: center;
+    font-size: 30px;
+    color:rgb(247, 247, 247);
+}   
+img{
+    width: 300px;
+    margin-left: 100px;
+}
+
+.cabecalho{
+    background-color:rgb(193, 71, 223);
+    display: flex;
 }

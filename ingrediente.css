@@ -20,11 +20,7 @@ img{
     background-color:rgb(193, 71, 223);
     display: flex;
 }
-{
-.lista_cabecalho
-    display: flex;
-    margin-left: 500px;
-}
+
 .item_lista_cabecalho{
     color: aquamarine;
     list-style: none;
